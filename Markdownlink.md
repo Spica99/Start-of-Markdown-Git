@@ -2,7 +2,7 @@
 
 ## Important links:
 
-The Chinese manual for markdown is [Markdown ???? (?????)](http://wowubuntu.com/markdown/);
+The Chinese manual for markdown is [Markdown](http://wowubuntu.com/markdown/);
 
 [Markdown - Oliver](http://joinwee.com/lesson/10/);
 
@@ -11,6 +11,6 @@ The Chinese manual for markdown is [Markdown ???? (?????)](http://wowubuntu.com/
 [What is markdown - zhihu](http://www.zhihu.com/question/19963642);
 
 
-[R Markdown — Dynamic Documents for R](http://rmarkdown.rstudio.com/);
+[R Markdown â€” Dynamic Documents for R](http://rmarkdown.rstudio.com/);
 
 >December 1st, 2014
