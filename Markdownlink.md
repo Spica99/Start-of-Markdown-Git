@@ -1,19 +1,17 @@
-# Markdown Learning
+# The Data Scientist’s Toolbox
 
-## Important links:
+***
+## Markdown & R Markdown:
 
 The Chinese manual for markdown is [Markdown](http://wowubuntu.com/markdown/); 
 
-[CommonMark-jdm](http://commonmark.org/).
-
-
+[CommonMark - jdm](http://commonmark.org/).
 
 [Markdown - Oliver](http://joinwee.com/lesson/10/);
 
 [Markdown - Zhiping](http://www.yangzhiping.com/tech/r-markdown-knitr.html);
 
 [What is markdown - zhihu](http://www.zhihu.com/question/19963642);
-
 
 
 [R Markdown — Dynamic Documents for R](http://rmarkdown.rstudio.com/);
@@ -32,4 +30,23 @@ The Chinese manual for markdown is [Markdown](http://wowubuntu.com/markdown/);
 
 [Other guides and videos](https://guides.github.com/).
 
->December 1st, 2014
+
+## R & Rstudio 
+
+R packages: [CRAN](http://cran.r-project.org/);
+
+Biological application: [Bioconductor](http://www.bioconductor.org/);
+
+Build a R packages: [Rtools](http://cran.r-project.org/bin/windows/Rtools).
+
+
+## Coursera - Data Science
+
+[Data Science](https://www.coursera.org/specialization/jhudatascience/1?utm_medium=listingPage) in John Hokpins;
+
+[The Data Scientist’s Toolbox](https://class.coursera.org/datascitoolbox-009), [MOOC](https://class.coursera.org/datascitoolbox-017);
+
+[Data Science Specialization](http://datasciencespecialization.github.io/).
+
+
+>December 2nd, 2014
