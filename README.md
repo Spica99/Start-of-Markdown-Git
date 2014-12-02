@@ -8,7 +8,7 @@ This is a test.
 >The courage to change the things I can,
 >And the wisdom to know the difference.
 
-Thanks for all your patient. :)
+Thanks for all your patience. :)
 
 > You are as great as the cause you serve, and as young as your dreams.
 > -- Shimon Peres
