@@ -24,6 +24,8 @@ The Chinese manual for markdown is [Markdown](http://wowubuntu.com/markdown/);
 
 [Modified reference](https://github.com/wohugb/git-reference);
 
+[Simple Git Tutorial - Xuefeng Liao](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000);
+
 [Git reference](http://gitref.org/basic/);
 
 [Git quick reference for beginners](http://www.dataschool.io/git-quick-reference-for-beginners/);
