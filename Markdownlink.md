@@ -55,4 +55,4 @@ Build a R packages: [Rtools](http://cran.r-project.org/bin/windows/Rtools).
 
 
 
->December 2nd, 2014
+>December 3rd, 2014
