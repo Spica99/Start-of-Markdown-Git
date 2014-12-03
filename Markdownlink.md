@@ -47,7 +47,7 @@ Build a R packages: [Rtools](http://cran.r-project.org/bin/windows/Rtools).
 
 ## Coursera - Data Science
 
-[Data Science](https://www.coursera.org/specialization/jhudatascience/1?utm_medium=listingPage) in John Hokpins;
+[Data Science](https://www.coursera.org/specialization/jhudatascience/1?utm_medium=listingPage) in John Hopkins;
 
 [The Data Scientist’s Toolbox](https://class.coursera.org/datascitoolbox-009), [MOOC](https://class.coursera.org/datascitoolbox-017);
 
