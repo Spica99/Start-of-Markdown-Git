@@ -5,6 +5,10 @@
 
 The Chinese manual for markdown is [Markdown](http://wowubuntu.com/markdown/); 
 
+Ebook: [Pro Git Chinese](http://liam0205.me/attachment/Git/progit.zh.pdf),
+[Git Community Book Chinese](http://gitbook.liuhui998.com/book.pdf);
+
+
 [CommonMark - jdm](http://commonmark.org/);
 
 [Markdown - Oliver](http://joinwee.com/lesson/10/);
