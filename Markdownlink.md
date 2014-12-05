@@ -18,7 +18,7 @@ The Chinese manual for markdown is [Markdown](http://wowubuntu.com/markdown/);
 
 [CommonMark - jdm](http://commonmark.org/);
 
-[R Markdown - Dynamic Documents for R](http://rmarkdown.rstudio.com/);
+[R Markdown - Dynamic Documents for R](http://rmarkdown.rstudio.com/).
 
 
 ## Git & GitHub
