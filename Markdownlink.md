@@ -13,9 +13,9 @@ The Chinese manual for markdown is [Markdown](http://wowubuntu.com/markdown/);
 
 [Markdown introduction](http://www.yangzhiping.com/tech/r-markdown-knitr.html), [tips for markdown](http://www.yangzhiping.com/tech/markdown.html?nsukey=240IHKrBNrXpmuZDTUrdaBZgRtXNGOCFkYyTs%2BjlVBhs%2BN2xpds3f%2FT2w63wfEf7fWM5JXfqA5GLNIwe1mqP5A%3D%3D) from [Zhiping Yang](http://www.yangzhiping.com/);
 
-[Markdown for ppt](https://github.com/gnab/remark);
-
 [Tips for markdown on Jianshu ](http://www.jianshu.com/collection/BDu5F8);
+
+[Markdown for ppt](https://github.com/gnab/remark);
 
 [Web compile for markdown](http://tool.oschina.net/markdown);
 
