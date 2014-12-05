@@ -5,17 +5,13 @@
 
 The Chinese manual for markdown is [Markdown](http://wowubuntu.com/markdown/); 
 
-Ebooks: [Pro Git Chinese](http://liam0205.me/attachment/Git/progit.zh.pdf),
-[Git Community Book Chinese](http://gitbook.liuhui998.com/book.pdf);
+[Markdown introduction in writing](http://joinwee.com/lesson/10/) from [OLiver](http://swordi.com/projects/);
 
-
-[CommonMark - jdm](http://commonmark.org/);
-
-[Markdown - Oliver](http://joinwee.com/lesson/10/);
-
-[Markdown - Zhiping](http://www.yangzhiping.com/tech/r-markdown-knitr.html);
+[Markdown introduction](http://www.yangzhiping.com/tech/r-markdown-knitr.html), [tips for Markdown](http://www.yangzhiping.com/tech/markdown.html?nsukey=240IHKrBNrXpmuZDTUrdaBZgRtXNGOCFkYyTs%2BjlVBhs%2BN2xpds3f%2FT2w63wfEf7fWM5JXfqA5GLNIwe1mqP5A%3D%3D) from [Zhiping Yang](http://www.yangzhiping.com/);
 
 [What is markdown - zhihu](http://www.zhihu.com/question/19963642);
+
+[CommonMark - jdm](http://commonmark.org/);
 
 [R Markdown — Dynamic Documents for R](http://rmarkdown.rstudio.com/);
 
@@ -33,6 +29,9 @@ Ebooks: [Pro Git Chinese](http://liam0205.me/attachment/Git/progit.zh.pdf),
 
 [Other guides and videos](https://guides.github.com/).
 
+Ebooks: [Pro Git Chinese](http://liam0205.me/attachment/Git/progit.zh.pdf),
+[Git Community Book Chinese](http://gitbook.liuhui998.com/book.pdf).
+
 
 
 ## R & Rstudio 
@@ -44,10 +43,19 @@ Biological application: [Bioconductor](http://www.bioconductor.org/);
 Build a R packages: [Rtools](http://cran.r-project.org/bin/windows/Rtools).
 
 
+## Data and coding sharing
+
+[Github](https://github.com/);
+
+[figshare](http://figshare.com/) (1GB of free storage space for users);
+
+[datasharing](https://github.com/jtleek/datasharing) (share data with a statistician).
+
+
 
 ## Coursera - Data Science
 
-[Data Science](https://www.coursera.org/specialization/jhudatascience/1?utm_medium=listingPage) in John Hopkins;
+[Data Science](https://www.coursera.org/specialization/jhudatascience/1?utm_medium=listingPage) [(Document)](https://github.com/DataScienceSpecialization/courses) in John Hopkins;
 
 [The Data Scientist’s Toolbox](https://class.coursera.org/datascitoolbox-009), [MOOC](https://class.coursera.org/datascitoolbox-017);
 
@@ -55,4 +63,4 @@ Build a R packages: [Rtools](http://cran.r-project.org/bin/windows/Rtools).
 
 
 
->December 3rd, 2014
+>December 5th, 2014
