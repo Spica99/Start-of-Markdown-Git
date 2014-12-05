@@ -2,23 +2,32 @@
 
 
 ***
+
 ## Markdown & R Markdown:
+
+**Markdown**
 
 The Chinese manual for markdown is [Markdown](http://wowubuntu.com/markdown/); 
 
-[Markdown introduction in writing](http://joinwee.com/lesson/10/) from [OLiver](http://swordi.com/projects/);
+[Markdown introduction in writing](http://joinwee.com/lesson/10/) from [Oliver](http://swordi.com/projects/);
 
-[Markdown introduction](http://www.yangzhiping.com/tech/r-markdown-knitr.html), [tips for Markdown](http://www.yangzhiping.com/tech/markdown.html?nsukey=240IHKrBNrXpmuZDTUrdaBZgRtXNGOCFkYyTs%2BjlVBhs%2BN2xpds3f%2FT2w63wfEf7fWM5JXfqA5GLNIwe1mqP5A%3D%3D) from [Zhiping Yang](http://www.yangzhiping.com/);
+[Markdown introduction](http://www.yangzhiping.com/tech/r-markdown-knitr.html), [tips for markdown](http://www.yangzhiping.com/tech/markdown.html?nsukey=240IHKrBNrXpmuZDTUrdaBZgRtXNGOCFkYyTs%2BjlVBhs%2BN2xpds3f%2FT2w63wfEf7fWM5JXfqA5GLNIwe1mqP5A%3D%3D) from [Zhiping Yang](http://www.yangzhiping.com/);
 
-[Tips for Markdown on Jianshu ](http://www.jianshu.com/collection/BDu5F8);
+[Markdown for ppt](https://github.com/gnab/remark);
 
-[Web compile for Markdown](http://tool.oschina.net/markdown);
+[Tips for markdown on Jianshu ](http://www.jianshu.com/collection/BDu5F8);
+
+[Web compile for markdown](http://tool.oschina.net/markdown);
 
 [What is markdown - zhihu](http://www.zhihu.com/question/19963642);
 
 [CommonMark - jdm](http://commonmark.org/);
 
+**R Markdown**
+
 [R Markdown - Dynamic Documents for R](http://rmarkdown.rstudio.com/).
+
+[knitr](http://yihui.name/knitr/): elegant, flexible and fast dynamic report generation with R.
 
 
 ## Git & GitHub
