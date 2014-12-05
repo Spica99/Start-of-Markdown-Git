@@ -1,5 +1,6 @@
 # The Data Scientist’s Toolbox
 
+
 ***
 ## Markdown & R Markdown:
 
@@ -9,12 +10,15 @@ The Chinese manual for markdown is [Markdown](http://wowubuntu.com/markdown/);
 
 [Markdown introduction](http://www.yangzhiping.com/tech/r-markdown-knitr.html), [tips for Markdown](http://www.yangzhiping.com/tech/markdown.html?nsukey=240IHKrBNrXpmuZDTUrdaBZgRtXNGOCFkYyTs%2BjlVBhs%2BN2xpds3f%2FT2w63wfEf7fWM5JXfqA5GLNIwe1mqP5A%3D%3D) from [Zhiping Yang](http://www.yangzhiping.com/);
 
+[Tips for Markown on Jianshu ](http://www.jianshu.com/collection/BDu5F8);
+
+[Web compile for Markdown](http://tool.oschina.net/markdown);
+
 [What is markdown - zhihu](http://www.zhihu.com/question/19963642);
 
 [CommonMark - jdm](http://commonmark.org/);
 
-[R Markdown — Dynamic Documents for R](http://rmarkdown.rstudio.com/);
-
+[R Markdown - Dynamic Documents for R](http://rmarkdown.rstudio.com/);
 
 
 ## Git & GitHub
@@ -33,7 +37,6 @@ Ebooks: [Pro Git Chinese](http://liam0205.me/attachment/Git/progit.zh.pdf),
 [Git Community Book Chinese](http://gitbook.liuhui998.com/book.pdf).
 
 
-
 ## R & Rstudio 
 
 R packages: [CRAN](http://cran.r-project.org/);
@@ -50,7 +53,6 @@ Build a R packages: [Rtools](http://cran.r-project.org/bin/windows/Rtools).
 [figshare](http://figshare.com/) (1GB of free storage space for users);
 
 [datasharing](https://github.com/jtleek/datasharing) (share data with a statistician).
-
 
 
 ## Coursera - Data Science
