@@ -40,7 +40,9 @@ The Chinese manual for markdown is [Markdown](http://wowubuntu.com/markdown/);
 
 [Git quick reference for beginners](http://www.dataschool.io/git-quick-reference-for-beginners/);
 
-[Other guides and videos](https://guides.github.com/).
+[Other guides and videos](https://guides.github.com/);
+
+[GitHub Guides playlists](https://www.youtube.com/user/GitHubGuides/playlists);
 
 Ebooks: [Pro Git Chinese](http://liam0205.me/attachment/Git/progit.zh.pdf),
 [Git Community Book Chinese](http://gitbook.liuhui998.com/book.pdf).
