@@ -45,7 +45,9 @@ The Chinese manual for markdown is [Markdown](http://wowubuntu.com/markdown/);
 [GitHub Guides playlists](https://www.youtube.com/user/GitHubGuides/playlists);
 
 Ebooks: [Pro Git Chinese](http://liam0205.me/attachment/Git/progit.zh.pdf),
-[Git Community Book Chinese](http://gitbook.liuhui998.com/book.pdf).
+[Git Community Book Chinese](http://gitbook.liuhui998.com/book.pdf);
+
+Slidelights: [Please. Stop Using Git](https://www.youtube.com/watch?v=o4PFDKIc2fs).
 
 
 ## R & Rstudio 
