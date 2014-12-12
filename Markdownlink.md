@@ -42,7 +42,7 @@ The Chinese manual for markdown is [Markdown](http://wowubuntu.com/markdown/);
 
 [Other guides and videos](https://guides.github.com/);
 
-[GitHub Guides playlists](https://www.youtube.com/user/GitHubGuides/playlists);
+[GitHub Guides playlists](https://www.youtube.com/user/GitHubGuides/playlists), [GitHub Review - Getting Started with Code Collaboration](https://training.github.com/classes/);
 
 Ebooks: [Pro Git Chinese](http://liam0205.me/attachment/Git/progit.zh.pdf),
 [Git Community Book Chinese](http://gitbook.liuhui998.com/book.pdf);
