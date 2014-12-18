@@ -17,6 +17,8 @@ The Chinese manual for markdown is [Markdown](http://wowubuntu.com/markdown/);
 
 [Markdown for ppt](https://github.com/gnab/remark);
 
+Markdown for [马克飞象](http://maxiang.info/);
+
 [Web compile for markdown](http://tool.oschina.net/markdown), [StackEdit](https://stackedit.io/editor);
 
 [What is markdown - zhihu](http://www.zhihu.com/question/19963642);
