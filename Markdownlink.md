@@ -64,7 +64,9 @@ R packages: [CRAN](http://cran.r-project.org/);
 
 Biological application: [Bioconductor](http://www.bioconductor.org/);
 
-Build a R packages: [Rtools](http://cran.r-project.org/bin/windows/Rtools).
+Build a R packages: [Rtools](http://cran.r-project.org/bin/windows/Rtools);
+
+Shiny with Rstudio: [Teach yourself Shiny](http://shiny.rstudio.com/tutorial/).
 
 
 ## Data and coding sharing
