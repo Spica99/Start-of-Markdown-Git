@@ -78,14 +78,16 @@ Shiny with Rstudio: [Teach yourself Shiny](http://shiny.rstudio.com/tutorial/).
 [datasharing](https://github.com/jtleek/datasharing) (share data with a statistician).
 
 
-## Coursera - Data Science
+## Courses - Data Science
 
 [Data Science](https://www.coursera.org/specialization/jhudatascience/1?utm_medium=listingPage) [(Document)](https://github.com/DataScienceSpecialization/courses) in John Hopkins;
 
 [The Data Scientist’s Toolbox](https://class.coursera.org/datascitoolbox-009), [MOOC](https://class.coursera.org/datascitoolbox-017);
 
-[Data Science Specialization](http://datasciencespecialization.github.io/).
+[Data Science Specialization](http://datasciencespecialization.github.io/),
+
+[Introduction to Computer, Program and Programming](https://github.com/gangchen/CUHK-I2P).
 
 
 
->December 19th, 2014
+>December 29th, 2014
