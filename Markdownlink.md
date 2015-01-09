@@ -69,6 +69,13 @@ Build a R packages: [Rtools](http://cran.r-project.org/bin/windows/Rtools);
 Shiny with Rstudio: [Teach yourself Shiny](http://shiny.rstudio.com/tutorial/).
 
 
+## Data visualization
+
+[Gephi](http://gephi.github.io/), [Gephi - git](https://github.com/gephi/gephi);
+
+[Gephi 中文教程](https://www.udemy.com/gephi/#/).
+
+
 ## Data and coding sharing
 
 [Github](https://github.com/);
