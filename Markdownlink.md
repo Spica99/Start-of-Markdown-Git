@@ -97,4 +97,4 @@ Shiny with Rstudio: [Teach yourself Shiny](http://shiny.rstudio.com/tutorial/).
 
 
 
->December 29th, 2014
+>January 9th, 2015
