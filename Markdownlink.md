@@ -56,7 +56,9 @@ R packages: [CRAN](http://cran.r-project.org/);
 
 Biological application: [Bioconductor](http://www.bioconductor.org/);
 
-Build a R packages: [Rtools](http://cran.r-project.org/bin/windows/Rtools).
+Build a R packages: [Rtools](http://cran.r-project.org/bin/windows/Rtools);
+
+Common R reference cards: [R cheat sheet](http://devcheatsheet.com/tag/r/).
 
 
 ## Data and coding sharing
