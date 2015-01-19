@@ -109,4 +109,4 @@ Technical cheat sheets and quick reference cards[Cheat Sheets for R](http://devc
 
 
 
->January 16th, 2015
+>January 19th, 2015
