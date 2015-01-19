@@ -70,6 +70,16 @@ Shiny with Rstudio: [Teach yourself Shiny](http://shiny.rstudio.com/tutorial/),
 
 Technical cheat sheets and quick reference cards[Cheat Sheets for R](http://devcheatsheet.com/tag/r/).
 
+## Text Patterns for Search and Replace
+
+[Perl](http://zh.wikipedia.org/wiki/Perl): [1](http://www.tutorialspoint.com/perl/perl_regular_expression.htm);[2](http://doc.sumy.ua/prog/pb/prog/ch02_04.htm);[3](http://www.sarand.com/td/ref_perl_pattern.html);
+
+[Programming Perl](http://doc.sumy.ua/prog/pb/prog/prf1_02.htm);
+
+[The Perl CD Bookshelf](http://doc.sumy.ua/prog/pb/index-1.htm);
+
+[Perl](https://www.perl.org/); [Perl in China](http://www.perlchina.org/).
+
 
 ## Data visualization
 
@@ -99,4 +109,4 @@ Technical cheat sheets and quick reference cards[Cheat Sheets for R](http://devc
 
 
 
->January 9th, 2015
+>January 16th, 2015
