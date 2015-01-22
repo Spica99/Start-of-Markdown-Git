@@ -68,7 +68,7 @@ Build a R packages: [Rtools](http://cran.r-project.org/bin/windows/Rtools);
 
 Shiny with Rstudio: [Teach yourself Shiny](http://shiny.rstudio.com/tutorial/),
 
-Technical cheat sheets and quick reference cards[Cheat Sheets for R](http://devcheatsheet.com/tag/r/).
+Technical cheat sheets and quick reference cards [Cheat Sheets for R](http://devcheatsheet.com/tag/r/).
 
 ## Text Patterns for Search and Replace
 
@@ -87,7 +87,7 @@ Technical cheat sheets and quick reference cards[Cheat Sheets for R](http://devc
 
 [Gephi 中文教程](https://www.udemy.com/gephi/#/);
 
-The Science of Science (Sci2) Tool [Sci2](http://wiki.cns.iu.edu/display/SCI2TUTORIAL/1+Introduction), reference book [Visual Insights: A Practical Guide to Making Sense of Data](http://cns.iu.edu/ivmoocbook14.html).
+The Science of Science (Sci2) Tool [Sci2](http://wiki.cns.iu.edu/display/SCI2TUTORIAL/1+Introduction), reference book [Visual Insights: A Practical Guide to Making Sense of Data](http://cns.iu.edu/ivmoocbook14.html), [training slides](http://cns.iu.edu/docs/presentations/2013-borner-visualinsights-cs10k.pdf).
 
 
 ## Data and coding sharing
@@ -111,4 +111,4 @@ The Science of Science (Sci2) Tool [Sci2](http://wiki.cns.iu.edu/display/SCI2TUT
 
 
 
->January 19th, 2015
+>January 22th, 2015
