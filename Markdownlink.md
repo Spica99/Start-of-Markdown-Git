@@ -87,7 +87,7 @@ Technical cheat sheets and quick reference cards [Cheat Sheets for R](http://dev
 
 [Gephi 中文教程](https://www.udemy.com/gephi/#/);
 
-The Science of Science (Sci2) Tool [Sci2](http://wiki.cns.iu.edu/display/SCI2TUTORIAL/1+Introduction), reference book [Visual Insights: A Practical Guide to Making Sense of Data](http://cns.iu.edu/ivmoocbook14.html), [training slides](http://cns.iu.edu/docs/presentations/2013-borner-visualinsights-cs10k.pdf).
+The Science of Science (Sci2) Tool [Sci2](http://wiki.cns.iu.edu/display/SCI2TUTORIAL/1+Introduction), reference book [Visual Insights: A Practical Guide to Making Sense of Data](http://cns.iu.edu/ivmoocbook14.html), [training slides](http://cns.iu.edu/docs/presentations/2013-borner-visualinsights-cs10k.pdf), [MOOC course](https://iu.instructure.com/courses/1422858).
 
 
 ## Data and coding sharing
