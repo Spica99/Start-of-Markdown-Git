@@ -107,8 +107,10 @@ The Science of Science (Sci2) Tool [Sci2](http://wiki.cns.iu.edu/display/SCI2TUT
 
 [Data Science Specialization](http://datasciencespecialization.github.io/),
 
-[Introduction to Computer, Program and Programming](https://github.com/gangchen/CUHK-I2P).
+[Introduction to Computer, Program and Programming](https://github.com/gangchen/CUHK-I2P),
+
+[PH525.1 Course in bioinformatics](https://courses.edx.org/courses/HarvardX/PH525.1x/1T2015/info), book [PH525x series - Biomedical Data Science](http://genomicsclass.github.io/book/), [data](https://github.com/genomicsclass/labs).
 
 
 
->January 22th, 2015
+>January 27th, 2015
