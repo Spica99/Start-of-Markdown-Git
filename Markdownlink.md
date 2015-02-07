@@ -50,6 +50,8 @@ Markdown for [马克飞象](http://maxiang.info/);
 
 [Other guides and videos](https://guides.github.com/);
 
+[Resources](http://chronicle.com/blogs/profhacker/resources-for-learning-git-and-github/48285) for Learning Git and GitHub;
+
 [GitHub Guides playlists](https://www.youtube.com/user/GitHubGuides/playlists), [GitHub Review - Getting Started with Code Collaboration](https://training.github.com/classes/);
 
 Ebooks: [Pro Git Chinese](http://liam0205.me/attachment/Git/progit.zh.pdf),
