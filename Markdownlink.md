@@ -72,6 +72,8 @@ Technical cheat sheets and quick reference cards [Cheat Sheets for R](http://dev
 
 [Swirl](http://swirlstats.com/students.html): learn R interactively from within the R console.
 
+[R和Python的相遇](http://nbviewer.ipython.org/gist/xccds/d692e468e21aeca6748a) from [xccd](http://xccds.github.io/archive.html).
+
 ## Text Patterns for Search and Replace
 
 [Perl](http://zh.wikipedia.org/wiki/Perl): [1](http://www.tutorialspoint.com/perl/perl_regular_expression.htm);[2](http://doc.sumy.ua/prog/pb/prog/ch02_04.htm);[3](http://www.sarand.com/td/ref_perl_pattern.html);
