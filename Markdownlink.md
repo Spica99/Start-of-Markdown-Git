@@ -60,7 +60,7 @@ Build a R packages: [Rtools](http://cran.r-project.org/bin/windows/Rtools);
 
 [RDataMining.com](http://www.rdatamining.com/resources/onlinedocs): R and Data Mining 
 
-Common R reference cards: [R cheat sheet](http://devcheatsheet.com/tag/r/).
+Common R reference cards: [R cheat sheet](http://devcheatsheet.com/tag/r/), [Advanced R](http://adv-r.had.co.nz/) by Hadley Wickham
 
 
 ## Data and coding sharing
