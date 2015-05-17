@@ -104,7 +104,7 @@ The Science of Science (Sci2) Tool [Sci2](http://wiki.cns.iu.edu/display/SCI2TUT
 
 [datasharing](https://github.com/jtleek/datasharing) (share data with a statistician);
 
-[Software search](https://software.oit.duke.edu/comp-print/software/license/index.php).
+[Software search](https://software.oit.duke.edu/comp-print/software/license/index.php) at Duke.
 
 
 ## Courses - Data Science
@@ -121,4 +121,4 @@ The Science of Science (Sci2) Tool [Sci2](http://wiki.cns.iu.edu/display/SCI2TUT
 
 
 
->Feb 5th, 2015
+>Feb 10th, 2015
