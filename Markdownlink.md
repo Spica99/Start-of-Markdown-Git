@@ -74,6 +74,11 @@ Technical cheat sheets and quick reference cards [Cheat Sheets for R](http://dev
 
 [Swirl](http://swirlstats.com/students.html): learn R interactively from within the R console.
 
+Technical cheat sheets and quick reference cards [Cheat Sheets for R](http://devcheatsheet.com/tag/r/), 
+[RDataMining.com](http://www.rdatamining.com/resources/onlinedocs): R and Data Mining, [Advanced R](http://adv-r.had.co.nz/) by Hadley Wickham.
+
+[Wikibook](http://en.wikibooks.org/wiki/R_Programming) forR programming, [Google's R Style Guide](http://google-styleguide.googlecode.com/svn/trunk/Rguide.xml).
+
 [R和Python的相遇](http://nbviewer.ipython.org/gist/xccds/d692e468e21aeca6748a) from [xccd](http://xccds.github.io/archive.html).
 
 ## Text Patterns for Search and Replace
@@ -89,11 +94,15 @@ Technical cheat sheets and quick reference cards [Cheat Sheets for R](http://dev
 
 ## Data visualization
 
-[Gephi](http://gephi.github.io/), [Gephi - git](https://github.com/gephi/gephi);
-
-[Gephi 中文教程](https://www.udemy.com/gephi/#/);
+[Gephi](http://gephi.github.io/), [Gephi - git](https://github.com/gephi/gephi), [Gephi 中文教程](https://www.udemy.com/gephi/#/);
 
 The Science of Science (Sci2) Tool [Sci2](http://wiki.cns.iu.edu/display/SCI2TUTORIAL/1+Introduction), reference book [Visual Insights: A Practical Guide to Making Sense of Data](http://cns.iu.edu/ivmoocbook14.html), [training slides](http://cns.iu.edu/docs/presentations/2013-borner-visualinsights-cs10k.pdf), [MOOC course](https://iu.instructure.com/courses/1422858).
+
+[Cytoscape](http://www.cytoscape.org/) is an open source software [platform](https://github.com/cytoscape) for visualizing complex networks and integrating these with any type of attribute data.
+
+Xiqiao [visualization](http://blog.xiqiao.info/category/visualization);
+
+Q & A from [zhihu](http://www.zhihu.com/question/19929609), [poster](http://www.zhihu.com/question/22014621), [sup](http://ce.sysu.edu.cn/hope/Item.aspx?id=69149).
 
 
 ## Data, software and coding sharing
@@ -117,8 +126,9 @@ The Science of Science (Sci2) Tool [Sci2](http://wiki.cns.iu.edu/display/SCI2TUT
 
 [Introduction to Computer, Program and Programming](https://github.com/gangchen/CUHK-I2P),
 
+[Code School](https://www.codeschool.com/paths/git),
+
 [PH525.1 Course in bioinformatics](https://courses.edx.org/courses/HarvardX/PH525.1x/1T2015/info), book [PH525x series - Biomedical Data Science](http://genomicsclass.github.io/book/), [data](https://github.com/genomicsclass/labs).
 
 
-
->Feb 10th, 2015
+>May 16th, 2015
