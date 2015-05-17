@@ -77,7 +77,7 @@ Technical cheat sheets and quick reference cards [Cheat Sheets for R](http://dev
 Technical cheat sheets and quick reference cards [Cheat Sheets for R](http://devcheatsheet.com/tag/r/), 
 [RDataMining.com](http://www.rdatamining.com/resources/onlinedocs): R and Data Mining, [Advanced R](http://adv-r.had.co.nz/) by Hadley Wickham.
 
-[Wikibook](http://en.wikibooks.org/wiki/R_Programming) forR programming, [Google's R Style Guide](http://google-styleguide.googlecode.com/svn/trunk/Rguide.xml).
+[Wikibook](http://en.wikibooks.org/wiki/R_Programming) for R programming, [Google's R Style Guide](http://google-styleguide.googlecode.com/svn/trunk/Rguide.xml).
 
 [R和Python的相遇](http://nbviewer.ipython.org/gist/xccds/d692e468e21aeca6748a) from [xccd](http://xccds.github.io/archive.html).
 
