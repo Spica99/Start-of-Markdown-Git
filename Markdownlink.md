@@ -27,7 +27,8 @@ The Chinese manual for markdown is [Markdown](http://wowubuntu.com/markdown/);
 
 [R Markdown - Dynamic Documents for R](http://rmarkdown.rstudio.com/).
 
-[knitr](http://yihui.name/knitr/): elegant, flexible and fast dynamic report generation with R.
+[knitr](http://yihui.name/knitr/): elegant, flexible and fast dynamic report generation with R. [How to use knitr](http://biostat.mc.vanderbilt.edu/wiki/Main/KnitrHowto) at vanderbilt.edu.
+
 
 
 ## Git & GitHub
@@ -82,4 +83,4 @@ Common R reference cards: [R cheat sheet](http://devcheatsheet.com/tag/r/), [Adv
 
 
 
->December 5th, 2014
+>Jyly 21th, 2015
