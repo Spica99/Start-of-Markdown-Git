@@ -29,7 +29,7 @@ Markdown for [马克飞象](http://maxiang.info/);
 
 [R Markdown - Dynamic Documents for R](http://rmarkdown.rstudio.com/).
 
-[knitr](http://yihui.name/knitr/): elegant, flexible and fast dynamic report generation with R.
+[knitr](http://yihui.name/knitr/): elegant, flexible and fast dynamic report generation with R. [How to use knitr](http://biostat.mc.vanderbilt.edu/wiki/Main/KnitrHowto) at vanderbilt.edu.
 
 
 ## Git & GitHub
@@ -131,4 +131,4 @@ Q & A from [zhihu](http://www.zhihu.com/question/19929609), [poster](http://www.
 [PH525.1 Course in bioinformatics](https://courses.edx.org/courses/HarvardX/PH525.1x/1T2015/info), book [PH525x series - Biomedical Data Science](http://genomicsclass.github.io/book/), [data](https://github.com/genomicsclass/labs).
 
 
->May 16th, 2015
+>Jyly 21th, 2015
