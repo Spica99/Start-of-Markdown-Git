@@ -131,4 +131,4 @@ Q & A from [zhihu](http://www.zhihu.com/question/19929609), [poster](http://www.
 [PH525.1 Course in bioinformatics](https://courses.edx.org/courses/HarvardX/PH525.1x/1T2015/info), book [PH525x series - Biomedical Data Science](http://genomicsclass.github.io/book/), [data](https://github.com/genomicsclass/labs).
 
 
->Jyly 21th, 2015
+>July 21th, 2015
